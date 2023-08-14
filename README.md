@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Tic Tac Toe Dataset Analysis
 
 This notebook aims to analyze Kaggle's "Tic Tac Toe" dataset, available at: https://www.kaggle.com/datasets/ulrikthygepedersen/tic-tac-toe.
